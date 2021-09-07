@@ -1,0 +1,82 @@
+.carousel-item{
+    position: relative;
+}
+h1{
+    position: absolute;
+    top: 43%;
+    left: 28%;
+    color: #fff;
+}
+p {
+	position: absolute;
+	top: 50%;
+	left: 29%;
+	color: #fff;
+	margin-top: 10px;
+	width: 500px;
+}
+
+
+.navbar a img{
+    width: 50px;
+}
+
+.btn.btn-primary.sortehobe {
+	margin-left: 88px !important;
+}
+
+.card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	background-color: #fff;
+	background-clip: border-box;
+	border: 1px solid rgba(0,0,0,.125);
+	border-radius: .25rem;
+	margin-left: 18px;
+}
+
+.ok {
+	position: absolute;
+	top: 30%;
+	left: -32%;
+	color: #fff;
+	margin-top: 10px;
+	width: 500px;
+	text-align: center;
+}
+
+.ff{
+	width: 48%;
+}
+
+.footer-menu{}
+.footer-menu ul{
+    text-align: center;
+}
+.footer-menu ul li{
+    display: inline-block;
+}
+.footer-menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+}
+.footer-menu img{}
+.footer-menu  h5{
+    text-align: center;
+    margin-top: 20px;
+    color: #8fcfcb;
+}
+
+.footer-bottom{
+    background: linear-gradient(to right, #43cea2 , #185a9d) !important;
+    padding: 50px 0px;
+}
+
+img{
+	max-width: 100%;
+}
